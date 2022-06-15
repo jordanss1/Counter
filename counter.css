@@ -1,0 +1,34 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+}
+
+.div-row {
+	height: 100%;
+}
+
+.parent-con {
+	height: 680px;
+}
+
+i {
+	font-size: 60px;
+}
+
+button {
+	border-color: transparent;
+	background-color: transparent;
+	color: white;
+}
+
+
+.div-col2 {
+	height: 100%;
+}
+
+p {
+	font-family: "M PLUS Rounded 1c";
+	height: 85px;
+	font-size: 65px;
+}
